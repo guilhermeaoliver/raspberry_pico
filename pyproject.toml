@@ -1,0 +1,7 @@
+[project]
+name = "raspberry"
+version = "0.1.0"
+description = "Exercícios didáticos para a placa Raspberry Pi Pico W"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
